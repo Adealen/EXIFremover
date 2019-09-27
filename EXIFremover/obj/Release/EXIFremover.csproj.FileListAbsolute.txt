@@ -3,8 +3,9 @@ c:\users\alastar\documents\visual studio 2015\Projects\ConsoleApplication1\Conso
 c:\users\alastar\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\EXIFrevover.pdb
 c:\users\alastar\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\EXIFrevover.exe
 c:\users\alastar\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\EXIFrevover.pdb
-C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\bin\Release\EXIFrevover.exe.config
-C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\obj\Release\EXIFrevover.exe
-C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\obj\Release\EXIFrevover.pdb
-C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\bin\Release\EXIFrevover.exe
-C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\bin\Release\EXIFrevover.pdb
+C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\bin\Release\EXIFremover.exe.config
+C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\bin\Release\EXIFremover.exe
+C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\bin\Release\EXIFremover.pdb
+C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\obj\Release\EXIFremover.csprojResolveAssemblyReference.cache
+C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\obj\Release\EXIFremover.exe
+C:\Users\Alastar\Documents\Visual Studio 2015\Projects\EXIFremover\EXIFremover\obj\Release\EXIFremover.pdb

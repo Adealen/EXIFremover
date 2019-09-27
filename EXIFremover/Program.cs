@@ -14,13 +14,13 @@ namespace ExifRemover
             string outFolder = "Out";
             if (args.Length == 1)
             {
-                picExtension = args[1];
+                picExtension = args[0];
             }
             if (args.Length == 3)
             {
-                picExtension = args[1];
-                inFolder = args[2];
-                outFolder = args[3];
+                picExtension = args[0];
+                inFolder = args[1];
+                outFolder = args[2];
             }
             int count = 0;
             try
